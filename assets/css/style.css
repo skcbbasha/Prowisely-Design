@@ -1,3 +1,22 @@
 .w-xl-800px {
     width: 800px !important;
 }
+
+.btn.btn-primary {
+    color: #fff;
+    background-color: #0BB783 !important;
+}
+.btn.btn-primary:hover:not(.btn-active) {
+    color: #fff;
+    background-color: #04AA77 !important;
+}
+.form-check.form-check-solid .form-check-input:checked {
+    background-color: #0BB783 !important;
+}
+.form-check.form-check-outline .form-check-input:checked {
+    background-color: #0BB783 !important;
+}
+
+.bg-light-green{
+    background-color: #D7F9EF !important;
+}
