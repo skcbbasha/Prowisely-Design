@@ -6,6 +6,9 @@
     color: #fff;
     background-color: #0BB783 !important;
 }
+.bg-primary {
+    background-color: #0BB783 !important;
+}
 .btn.btn-primary:hover:not(.btn-active) {
     color: #fff;
     background-color: #04AA77 !important;
@@ -19,4 +22,9 @@
 
 .bg-light-green{
     background-color: #D7F9EF !important;
+}
+
+body {
+    background-color: #FBF6F0 !important;
+ 
 }
